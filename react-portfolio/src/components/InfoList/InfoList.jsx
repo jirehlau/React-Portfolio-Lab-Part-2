@@ -4,9 +4,9 @@ function InfoList(props) {
     return(
         <div className='InfoListComponent'>
             {/* <h2>InfoList</h2> */}
-            <p>InfoListItem</p>
-            <p>InfoListItem</p>
-            <p>InfoListItem</p>
+            <InfoList />
+            <InfoList />
+            <InfoList />
         </div>
         
     );
